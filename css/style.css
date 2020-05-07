@@ -1,0 +1,24 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+h1.title {
+  text-align: center;
+  margin: 50px 0px;
+}
+svg {
+  display: block;
+  height: 600px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #cacac7;
+  background-color: #efefee;
+  box-shadow: 0px 11px 16px #ccc;
+}
+
+circle {
+  r: 5;
+  stroke-width: 1;
+  stroke: black;
+}
